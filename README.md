@@ -1,2 +1,2 @@
 # mlops-abhishek
-Repo for MLOPs projects by Abhishek
+Repo for MLOPs projects by Abhishek Mahajan
